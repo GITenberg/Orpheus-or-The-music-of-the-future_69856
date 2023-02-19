@@ -1,5 +1,8 @@
 _repo: Orpheus-or-The-music-of-the-future_69856
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69856-h/images/cover.jpg
 creator:
   author:
     agent_name: Turner, W. J. (Walter James)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55457
     wikipedia: https://en.wikipedia.org/wiki/Walter_J._Turner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69856#Orpheus-or-The-music-of-the-future
 gutenberg_issued: '2023-01-22'
 identifiers:
   gutenberg: '69856'
